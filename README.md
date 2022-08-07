@@ -1,8 +1,6 @@
 # Welcome to JJong’s Github
-<style>
-    .aa {display:block; margin:auto;}
-</style>
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbcXxst%2FbtrJaWzrl6R%2FVnekS2DbTkVCzyEOKfRXEk%2Fimg.jpg" class="aa">
+
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbcXxst%2FbtrJaWzrl6R%2FVnekS2DbTkVCzyEOKfRXEk%2Fimg.jpg" align="right">
 
 # With Me!
 

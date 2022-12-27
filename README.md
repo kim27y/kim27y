@@ -18,9 +18,11 @@
 
 # Interest
 
-- ML, DL
+- **ML, DL**
     - Contrastive Learning
     - Video Action detection(Spatio temporal action detection)
     - Transformer
     - Anomaly detection
-- **Quantization**
+- **Optimazation**
+    - Quantization
+    - TinyML

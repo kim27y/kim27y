@@ -26,3 +26,5 @@
 - **Optimazation**
     - Quantization
     - TinyML
+
+Ich bin eine sprechende Kartoffel.....
